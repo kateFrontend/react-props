@@ -161,7 +161,10 @@ That's all! Now add a simple css just to make our profile cards a little more ni
 https://legacy.reactjs.org/docs/components-and-props.html
 ```
 
-
+### React Props w3schools
+```
+https://www.w3schools.com/react/react_props.asp
+```
 
 
 ## ⚡ Built With
